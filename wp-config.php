@@ -27,7 +27,7 @@ define( 'DB_USER', 'wptestinDB0qen0');
 
 /** MySQL database password */
 
-define( 'DB_PASSWORD', 'asdgdasg');
+define( 'DB_PASSWORD', 'cambiooopassss');
 
 /** MySQL hostname */
 define( 'DB_HOST', '127.0.0.1');
